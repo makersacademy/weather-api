@@ -1,0 +1,69 @@
+london  :
+  city  : london
+  temp  : 12
+new_york  :
+  city  : new york
+  temp  : 15
+athens  :
+  city  : athens
+  temp  : 27
+paris   :
+  city  : paris
+  temp  : 14
+vancouver  :
+  city  :  vancouver
+  temp  :  2
+dubai   :
+  city  :  dubai
+  temp  :  22
+shanghai  :
+  city  :  shanghai
+  temp  :  11
+new_delhi   :
+  city  :  new delhi
+  temp  :  27
+lagos   :
+  city  :  lagos
+  temp  :  32
+instanbul :
+  city  :  instanbul
+  temp  :  10
+mumbai  :
+  city  :  mumbai
+  temp  :  27
+moscow  :
+  city  :  moscow
+  temp  :  3
+cairo   :
+  city  :  cairo
+  temp  :  23
+sao_paulo :
+  city  :  sao paulo
+  temp  :  29
+sydney  :
+  city  :  sydney
+  temp  :  28
+tokyo   :
+  city  :  tokyo
+  temp  :  18
+seoul   :
+  city  :  seoul
+  temp  :  4
+jakarta :
+  city  :  jakarta
+  temp  :  31
+mexico_city :
+  city  :  mexico city
+  temp  :  27
+bangkok :
+  city  :  bangkok
+  temp  :  32
+copenhagen  :
+  city  :  copenhagen
+  temp  :  6
+prague  :
+  city  :  prague
+  temp  :  7
+
+
+
