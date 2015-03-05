@@ -13,7 +13,7 @@ athens  :
 paris   :
   city  : paris
   temp  : 14
-  outlook  : rainy
+  outlook  : rain
 vancouver  :
   city  :  vancouver
   temp  :  2
@@ -45,7 +45,7 @@ mumbai  :
 moscow  :
   city  :  moscow
   temp  :  3
-  outlook  : snowing
+  outlook  : snow
 cairo   :
   city  :  cairo
   temp  :  23
@@ -61,7 +61,7 @@ sydney  :
 tokyo   :
   city  :  tokyo
   temp  :  18
-  outlook  : rainy
+  outlook  : rain
 seoul   :
   city  :  seoul
   temp  :  4
@@ -81,7 +81,7 @@ bangkok :
 copenhagen  :
   city  :  copenhagen
   temp  :  6
-  outlook  : rainy
+  outlook  : rain
 prague  :
   city  :  prague
   temp  :  7
@@ -93,7 +93,7 @@ dublin  :
 glasgow  :
   city  :  glasgow
   temp  :  5
-  outlook  : rainy
+  outlook  : rain
 munich  :
   city  :  munich
   temp  :  10
@@ -117,11 +117,11 @@ barcelona  :
 milan  :
   city  :  milan
   temp  :  19
-  outlook  : rainy
+  outlook  : rain
 geneva  :
   city  :  geneva
   temp  :  5
-  outlook  : snowy
+  outlook  : snow
 lima  :
   city  :  lima
   temp  :  15
