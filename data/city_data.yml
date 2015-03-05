@@ -1,69 +1,158 @@
 london  :
   city  : london
   temp  : 12
+  outlook  : cloudy
 new_york  :
   city  : new york
   temp  : 15
+  outlook  : sunny
 athens  :
   city  : athens
   temp  : 27
+  outlook  : sunny
 paris   :
   city  : paris
   temp  : 14
+  outlook  : rainy
 vancouver  :
   city  :  vancouver
   temp  :  2
+  outlook  : sunny
 dubai   :
   city  :  dubai
   temp  :  22
+  outlook  : sunny
 shanghai  :
   city  :  shanghai
   temp  :  11
+  outlook  : cloudy
 new_delhi   :
   city  :  new delhi
   temp  :  27
+  outlook  : sunny
 lagos   :
   city  :  lagos
   temp  :  32
+  outlook  : sunny
 instanbul :
   city  :  instanbul
   temp  :  10
+  outlook  : sunny
 mumbai  :
   city  :  mumbai
   temp  :  27
+  outlook  : sunny
 moscow  :
   city  :  moscow
   temp  :  3
+  outlook  : snowing
 cairo   :
   city  :  cairo
   temp  :  23
+  outlook  : sunny
 sao_paulo :
   city  :  sao paulo
   temp  :  29
+  outlook  : sunny
 sydney  :
   city  :  sydney
   temp  :  28
+  outlook  : sunny
 tokyo   :
   city  :  tokyo
   temp  :  18
+  outlook  : rainy
 seoul   :
   city  :  seoul
   temp  :  4
+  outlook  : sunny
 jakarta :
   city  :  jakarta
   temp  :  31
+  outlook  : sunny
 mexico_city :
   city  :  mexico city
   temp  :  27
+  outlook  : sunny
 bangkok :
   city  :  bangkok
   temp  :  32
+  outlook  : cloudy
 copenhagen  :
   city  :  copenhagen
   temp  :  6
+  outlook  : rainy
 prague  :
   city  :  prague
   temp  :  7
-
+  outlook  : sunny
+dublin  :
+  city  :  dublin
+  temp  :  7
+  outlook  : cloudy
+glasgow  :
+  city  :  glasgow
+  temp  :  5
+  outlook  : rainy
+munich  :
+  city  :  munich
+  temp  :  10
+  outlook  : cloudy
+los_angeles  :
+  city  :  los angeles
+  temp  :  20
+  outlook  : sunny
+perth  :
+  city  :  perth
+  temp  :  28
+  outlook  : sunny
+auckland  :
+  city  :  auckland
+  temp  :  24
+  outlook  : cloudy
+barcelona  :
+  city  :  barcelona
+  temp  :  21
+  outlook  : sunny
+milan  :
+  city  :  milan
+  temp  :  19
+  outlook  : rainy
+geneva  :
+  city  :  geneva
+  temp  :  5
+  outlook  : snowy
+lima  :
+  city  :  lima
+  temp  :  15
+  outlook  : cloudy
+cairo  :
+  city  :  cairo
+  temp  :  24
+  outlook  : sunny
+singapore  :
+  city  :  singapore
+  temp  :  23
+  outlook  : cloudy
+rome  :
+  city  :  rome
+  temp  :  18
+  outlook  : sunny
+madrid  :
+  city  :  madrid
+  temp  :  25
+  outlook  : sunny
+lisbon  :
+  city  :  lisbon
+  temp  :  23
+  outlook  : cloudy
+cape_town  :
+  city  :  cape town
+  temp  :  24
+  outlook  : sunny
+belgium  :
+  city  :  belgium
+  temp  :  7
+  outlook  : cloudy
 
 

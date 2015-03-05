@@ -19,4 +19,8 @@ class Temperature < Sinatra::Base
     {cities: CITY_DATA.keys.map{|city|city.gsub("_"," ")}}.to_json
   end
 
+  get '/' do
+    "to get a list of the available cities go to /cities \n to get the temperature in a chosen city go to /temperature?city=city_name"
+  end
+
 end
